@@ -7,7 +7,7 @@ define([
     rendererList.push(
         {
             type: 'instorepickuppayment',
-            component: 'MageSuite_InStorePickupPayment/js/view/payment/method-renderer/in-store-pickup-payment'
+            component: 'GroomerShop_InStorePickupPayment/js/view/payment/method-renderer/in-store-pickup-payment'
         }
     );
 

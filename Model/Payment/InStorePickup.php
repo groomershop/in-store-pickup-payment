@@ -1,6 +1,6 @@
 <?php
 
-namespace MageSuite\InStorePickupPayment\Model\Payment;
+namespace GroomerShop\InStorePickupPayment\Model\Payment;
 
 class InStorePickup extends \Magento\Payment\Model\Method\AbstractMethod
 {

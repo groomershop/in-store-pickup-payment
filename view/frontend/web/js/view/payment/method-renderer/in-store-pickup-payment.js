@@ -14,7 +14,7 @@ define([
     return Component.extend({
         defaults: {
             template:
-                'MageSuite_InStorePickupPayment/payment/in_store_pickup_payment',
+                'GroomerShop_InStorePickupPayment/payment/in_store_pickup_payment',
         },
         isRadioButtonVisible: ko.observable(true),
     });

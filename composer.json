@@ -1,13 +1,12 @@
 {
-  "name": "creativestyle/magesuite-in-store-pickup-payment",
+  "name": "groomershop/in-store-pickup-payment",
   "description": "Payment method for in store pickup",
-  "homepage": "https://creativestyle.de",
   "license": "OSL-3.0",
   "type": "magento2-module",
   "autoload": {
     "files": [ "registration.php" ],
     "psr-4": {
-      "MageSuite\\InStorePickupPayment\\": ""
+      "GroomerShop\\InStorePickupPayment\\": ""
     }
   }
 }
