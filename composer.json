@@ -1,5 +1,5 @@
 {
-  "name": "groomershop/in-store-pickup-payment",
+  "name": "groomershop/module-in-store-pickup-payment",
   "description": "Payment method for in store pickup",
   "license": "OSL-3.0",
   "type": "magento2-module",
